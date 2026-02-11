@@ -1,0 +1,9 @@
+patient_id,patient_name,visit_date,copay,follow_up,clinic
+P101,Alice Smith,2024-01-10,20,Yes,Downtown
+P102, bob jones ,01/15/2024,$25,yes,downtown 
+,Carol Lee,2024/01/20,,Y,Capitol Hill
+ P104 ,DAVID KIM,, 30 ,No,Ballard
+P105,Eva Brown,2024-02-01,twenty,no,
+P106, frank white,02-05-2024,15,N,Ballard
+P107,Grace Liu ,2024-02-10,20.0,YES,Downtown
+,Hassan Ali,2024-02-15,,,Capitol Hill
