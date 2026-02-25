@@ -1,0 +1,1001 @@
+,course_id,course_name
+0,1,Data Structures 1
+1,2,Data Structures 2
+2,3,Intro to Python 3
+3,4,Intro to Python 4
+4,5,Software Engineering 5
+5,6,AI Fundamentals 6
+6,7,Software Engineering 7
+7,8,Data Structures 8
+8,9,Data Structures 9
+9,10,Data Structures 10
+10,11,Advanced Databases
+11,12,Data Structures 12
+12,13,Advanced Databases
+13,14,Advanced Databases
+14,15,AI Fundamentals 15
+15,16,Software Engineering 16
+16,17,Advanced Databases
+17,18,Advanced Databases
+18,19,Data Structures 19
+19,20,AI Fundamentals 20
+20,21,Intro to Python 21
+21,22,Software Engineering 22
+22,23,Advanced Databases
+23,24,AI Fundamentals 24
+24,25,Data Structures 25
+25,26,Intro to Python 26
+26,27,Software Engineering 27
+27,28,Intro to Python 28
+28,29,AI Fundamentals 29
+29,30,AI Fundamentals 30
+30,31,Data Structures 31
+31,32,Intro to Python 32
+32,33,Advanced Databases
+33,34,AI Fundamentals 34
+34,35,Software Engineering 35
+35,36,Advanced Databases
+36,37,Advanced Databases
+37,38,AI Fundamentals 38
+38,39,Software Engineering 39
+39,40,AI Fundamentals 40
+40,41,Software Engineering 41
+41,42,Software Engineering 42
+42,43,AI Fundamentals 43
+43,44,Intro to Python 44
+44,45,Intro to Python 45
+45,46,AI Fundamentals 46
+46,47,Software Engineering 47
+47,48,Intro to Python 48
+48,49,Intro to Python 49
+49,50,Software Engineering 50
+50,51,Advanced Databases
+51,52,Software Engineering 52
+52,53,Intro to Python 53
+53,54,AI Fundamentals 54
+54,55,AI Fundamentals 55
+55,56,Intro to Python 56
+56,57,AI Fundamentals 57
+57,58,Data Structures 58
+58,59,AI Fundamentals 59
+59,60,Intro to Python 60
+60,61,Advanced Databases
+61,62,Software Engineering 62
+62,63,Advanced Databases
+63,64,Advanced Databases
+64,65,Data Structures 65
+65,66,AI Fundamentals 66
+66,67,AI Fundamentals 67
+67,68,AI Fundamentals 68
+68,69,Data Structures 69
+69,70,Data Structures 70
+70,71,Software Engineering 71
+71,72,Intro to Python 72
+72,73,Software Engineering 73
+73,74,Advanced Databases
+74,75,Intro to Python 75
+75,76,Intro to Python 76
+76,77,AI Fundamentals 77
+77,78,Intro to Python 78
+78,79,Software Engineering 79
+79,80,Software Engineering 80
+80,81,Intro to Python 81
+81,82,Intro to Python 82
+82,83,AI Fundamentals 83
+83,84,AI Fundamentals 84
+84,85,Intro to Python 85
+85,86,Software Engineering 86
+86,87,Intro to Python 87
+87,88,Advanced Databases
+88,89,AI Fundamentals 89
+89,90,AI Fundamentals 90
+90,91,AI Fundamentals 91
+91,92,Advanced Databases
+92,93,Intro to Python 93
+93,94,Advanced Databases
+94,95,Advanced Databases
+95,96,Data Structures 96
+96,97,Data Structures 97
+97,98,Software Engineering 98
+98,99,Data Structures 99
+99,100,Advanced Databases
+100,101,Advanced Databases
+101,102,Advanced Databases
+102,103,AI Fundamentals 103
+103,104,AI Fundamentals 104
+104,105,AI Fundamentals 105
+105,106,Intro to Python 106
+106,107,Data Structures 107
+107,108,AI Fundamentals 108
+108,109,Intro to Python 109
+109,110,AI Fundamentals 110
+110,111,Software Engineering 111
+111,112,Software Engineering 112
+112,113,Advanced Databases
+113,114,Data Structures 114
+114,115,Software Engineering 115
+115,116,AI Fundamentals 116
+116,117,Software Engineering 117
+117,118,Advanced Databases
+118,119,Advanced Databases
+119,120,Software Engineering 120
+120,121,Data Structures 121
+121,122,Advanced Databases
+122,123,AI Fundamentals 123
+123,124,Software Engineering 124
+124,125,Intro to Python 125
+125,126,Software Engineering 126
+126,127,Advanced Databases
+127,128,Intro to Python 128
+128,129,AI Fundamentals 129
+129,130,Data Structures 130
+130,131,Advanced Databases
+131,132,AI Fundamentals 132
+132,133,Software Engineering 133
+133,134,AI Fundamentals 134
+134,135,AI Fundamentals 135
+135,136,AI Fundamentals 136
+136,137,Advanced Databases
+137,138,Software Engineering 138
+138,139,Intro to Python 139
+139,140,Advanced Databases
+140,141,Data Structures 141
+141,142,Software Engineering 142
+142,143,Data Structures 143
+143,144,Data Structures 144
+144,145,Software Engineering 145
+145,146,Intro to Python 146
+146,147,AI Fundamentals 147
+147,148,Software Engineering 148
+148,149,Software Engineering 149
+149,150,Intro to Python 150
+150,151,Intro to Python 151
+151,152,Advanced Databases
+152,153,Software Engineering 153
+153,154,Advanced Databases
+154,155,Intro to Python 155
+155,156,Data Structures 156
+156,157,Intro to Python 157
+157,158,Advanced Databases
+158,159,Software Engineering 159
+159,160,AI Fundamentals 160
+160,161,Software Engineering 161
+161,162,AI Fundamentals 162
+162,163,Advanced Databases
+163,164,Advanced Databases
+164,165,Advanced Databases
+165,166,Data Structures 166
+166,167,AI Fundamentals 167
+167,168,Intro to Python 168
+168,169,Data Structures 169
+169,170,Software Engineering 170
+170,171,Intro to Python 171
+171,172,AI Fundamentals 172
+172,173,Intro to Python 173
+173,174,AI Fundamentals 174
+174,175,Intro to Python 175
+175,176,Advanced Databases
+176,177,Software Engineering 177
+177,178,Data Structures 178
+178,179,AI Fundamentals 179
+179,180,Intro to Python 180
+180,181,AI Fundamentals 181
+181,182,Advanced Databases
+182,183,AI Fundamentals 183
+183,184,Software Engineering 184
+184,185,Data Structures 185
+185,186,Data Structures 186
+186,187,Data Structures 187
+187,188,Software Engineering 188
+188,189,Intro to Python 189
+189,190,Data Structures 190
+190,191,Intro to Python 191
+191,192,AI Fundamentals 192
+192,193,Advanced Databases
+193,194,AI Fundamentals 194
+194,195,Intro to Python 195
+195,196,Data Structures 196
+196,197,Intro to Python 197
+197,198,Intro to Python 198
+198,199,AI Fundamentals 199
+199,200,AI Fundamentals 200
+200,201,Data Structures 201
+201,202,Advanced Databases
+202,203,AI Fundamentals 203
+203,204,AI Fundamentals 204
+204,205,Data Structures 205
+205,206,Software Engineering 206
+206,207,Software Engineering 207
+207,208,Advanced Databases
+208,209,Data Structures 209
+209,210,AI Fundamentals 210
+210,211,AI Fundamentals 211
+211,212,Data Structures 212
+212,213,Intro to Python 213
+213,214,Advanced Databases
+214,215,Software Engineering 215
+215,216,Intro to Python 216
+216,217,Intro to Python 217
+217,218,Software Engineering 218
+218,219,Advanced Databases
+219,220,Intro to Python 220
+220,221,AI Fundamentals 221
+221,222,Advanced Databases
+222,223,AI Fundamentals 223
+223,224,Software Engineering 224
+224,225,Data Structures 225
+225,226,Intro to Python 226
+226,227,Intro to Python 227
+227,228,AI Fundamentals 228
+228,229,Intro to Python 229
+229,230,AI Fundamentals 230
+230,231,AI Fundamentals 231
+231,232,Software Engineering 232
+232,233,Intro to Python 233
+233,234,Intro to Python 234
+234,235,AI Fundamentals 235
+235,236,Intro to Python 236
+236,237,AI Fundamentals 237
+237,238,Advanced Databases
+238,239,Data Structures 239
+239,240,AI Fundamentals 240
+240,241,Software Engineering 241
+241,242,Software Engineering 242
+242,243,Software Engineering 243
+243,244,Advanced Databases
+244,245,Software Engineering 245
+245,246,Intro to Python 246
+246,247,Data Structures 247
+247,248,AI Fundamentals 248
+248,249,AI Fundamentals 249
+249,250,Advanced Databases
+250,251,AI Fundamentals 251
+251,252,Advanced Databases
+252,253,Advanced Databases
+253,254,Advanced Databases
+254,255,Data Structures 255
+255,256,Intro to Python 256
+256,257,Advanced Databases
+257,258,Advanced Databases
+258,259,Data Structures 259
+259,260,Data Structures 260
+260,261,Advanced Databases
+261,262,AI Fundamentals 262
+262,263,Intro to Python 263
+263,264,Advanced Databases
+264,265,Intro to Python 265
+265,266,Software Engineering 266
+266,267,Software Engineering 267
+267,268,Intro to Python 268
+268,269,Advanced Databases
+269,270,Advanced Databases
+270,271,Intro to Python 271
+271,272,AI Fundamentals 272
+272,273,Data Structures 273
+273,274,Software Engineering 274
+274,275,Software Engineering 275
+275,276,Intro to Python 276
+276,277,Software Engineering 277
+277,278,AI Fundamentals 278
+278,279,Advanced Databases
+279,280,Advanced Databases
+280,281,Data Structures 281
+281,282,AI Fundamentals 282
+282,283,Data Structures 283
+283,284,Software Engineering 284
+284,285,Software Engineering 285
+285,286,Data Structures 286
+286,287,Advanced Databases
+287,288,AI Fundamentals 288
+288,289,Advanced Databases
+289,290,Data Structures 290
+290,291,Advanced Databases
+291,292,Data Structures 292
+292,293,AI Fundamentals 293
+293,294,AI Fundamentals 294
+294,295,AI Fundamentals 295
+295,296,Advanced Databases
+296,297,AI Fundamentals 297
+297,298,Software Engineering 298
+298,299,Software Engineering 299
+299,300,Software Engineering 300
+300,301,Advanced Databases
+301,302,Data Structures 302
+302,303,Advanced Databases
+303,304,Software Engineering 304
+304,305,AI Fundamentals 305
+305,306,Software Engineering 306
+306,307,Data Structures 307
+307,308,Software Engineering 308
+308,309,Advanced Databases
+309,310,AI Fundamentals 310
+310,311,Data Structures 311
+311,312,AI Fundamentals 312
+312,313,Software Engineering 313
+313,314,AI Fundamentals 314
+314,315,Software Engineering 315
+315,316,AI Fundamentals 316
+316,317,AI Fundamentals 317
+317,318,Data Structures 318
+318,319,Software Engineering 319
+319,320,Intro to Python 320
+320,321,Advanced Databases
+321,322,Advanced Databases
+322,323,Data Structures 323
+323,324,Advanced Databases
+324,325,Advanced Databases
+325,326,Software Engineering 326
+326,327,AI Fundamentals 327
+327,328,Software Engineering 328
+328,329,Intro to Python 329
+329,330,Intro to Python 330
+330,331,Advanced Databases
+331,332,Software Engineering 332
+332,333,AI Fundamentals 333
+333,334,Advanced Databases
+334,335,AI Fundamentals 335
+335,336,Intro to Python 336
+336,337,Software Engineering 337
+337,338,Data Structures 338
+338,339,Advanced Databases
+339,340,Data Structures 340
+340,341,Software Engineering 341
+341,342,Advanced Databases
+342,343,AI Fundamentals 343
+343,344,AI Fundamentals 344
+344,345,Advanced Databases
+345,346,Intro to Python 346
+346,347,Data Structures 347
+347,348,AI Fundamentals 348
+348,349,Software Engineering 349
+349,350,Intro to Python 350
+350,351,Data Structures 351
+351,352,Software Engineering 352
+352,353,Advanced Databases
+353,354,Data Structures 354
+354,355,Advanced Databases
+355,356,Software Engineering 356
+356,357,Advanced Databases
+357,358,Data Structures 358
+358,359,Advanced Databases
+359,360,Data Structures 360
+360,361,Advanced Databases
+361,362,Software Engineering 362
+362,363,Advanced Databases
+363,364,AI Fundamentals 364
+364,365,Software Engineering 365
+365,366,Data Structures 366
+366,367,AI Fundamentals 367
+367,368,Intro to Python 368
+368,369,Data Structures 369
+369,370,Data Structures 370
+370,371,AI Fundamentals 371
+371,372,Advanced Databases
+372,373,Advanced Databases
+373,374,Software Engineering 374
+374,375,Software Engineering 375
+375,376,Intro to Python 376
+376,377,Software Engineering 377
+377,378,Advanced Databases
+378,379,Software Engineering 379
+379,380,Data Structures 380
+380,381,Software Engineering 381
+381,382,Data Structures 382
+382,383,Intro to Python 383
+383,384,Intro to Python 384
+384,385,Advanced Databases
+385,386,Intro to Python 386
+386,387,Advanced Databases
+387,388,Data Structures 388
+388,389,Data Structures 389
+389,390,Advanced Databases
+390,391,Intro to Python 391
+391,392,AI Fundamentals 392
+392,393,AI Fundamentals 393
+393,394,Data Structures 394
+394,395,Advanced Databases
+395,396,Intro to Python 396
+396,397,AI Fundamentals 397
+397,398,AI Fundamentals 398
+398,399,Advanced Databases
+399,400,Intro to Python 400
+400,401,Software Engineering 401
+401,402,Intro to Python 402
+402,403,Advanced Databases
+403,404,Intro to Python 404
+404,405,Software Engineering 405
+405,406,AI Fundamentals 406
+406,407,Software Engineering 407
+407,408,Advanced Databases
+408,409,AI Fundamentals 409
+409,410,Advanced Databases
+410,411,Data Structures 411
+411,412,Software Engineering 412
+412,413,Software Engineering 413
+413,414,Software Engineering 414
+414,415,Intro to Python 415
+415,416,AI Fundamentals 416
+416,417,Intro to Python 417
+417,418,Software Engineering 418
+418,419,Advanced Databases
+419,420,Software Engineering 420
+420,421,Intro to Python 421
+421,422,Advanced Databases
+422,423,Advanced Databases
+423,424,Advanced Databases
+424,425,Intro to Python 425
+425,426,Advanced Databases
+426,427,Intro to Python 427
+427,428,Advanced Databases
+428,429,Software Engineering 429
+429,430,Software Engineering 430
+430,431,Intro to Python 431
+431,432,Software Engineering 432
+432,433,Intro to Python 433
+433,434,AI Fundamentals 434
+434,435,Data Structures 435
+435,436,Software Engineering 436
+436,437,Advanced Databases
+437,438,Intro to Python 438
+438,439,Intro to Python 439
+439,440,Data Structures 440
+440,441,Data Structures 441
+441,442,Intro to Python 442
+442,443,Software Engineering 443
+443,444,Intro to Python 444
+444,445,Software Engineering 445
+445,446,Intro to Python 446
+446,447,AI Fundamentals 447
+447,448,AI Fundamentals 448
+448,449,AI Fundamentals 449
+449,450,Software Engineering 450
+450,451,Data Structures 451
+451,452,Data Structures 452
+452,453,AI Fundamentals 453
+453,454,Intro to Python 454
+454,455,Advanced Databases
+455,456,Advanced Databases
+456,457,Advanced Databases
+457,458,AI Fundamentals 458
+458,459,Software Engineering 459
+459,460,Data Structures 460
+460,461,Intro to Python 461
+461,462,Intro to Python 462
+462,463,Software Engineering 463
+463,464,Intro to Python 464
+464,465,Advanced Databases
+465,466,AI Fundamentals 466
+466,467,Software Engineering 467
+467,468,Software Engineering 468
+468,469,Intro to Python 469
+469,470,Software Engineering 470
+470,471,Data Structures 471
+471,472,Advanced Databases
+472,473,Advanced Databases
+473,474,AI Fundamentals 474
+474,475,AI Fundamentals 475
+475,476,AI Fundamentals 476
+476,477,AI Fundamentals 477
+477,478,Advanced Databases
+478,479,AI Fundamentals 479
+479,480,Advanced Databases
+480,481,Data Structures 481
+481,482,Software Engineering 482
+482,483,AI Fundamentals 483
+483,484,Intro to Python 484
+484,485,Software Engineering 485
+485,486,Intro to Python 486
+486,487,Software Engineering 487
+487,488,Data Structures 488
+488,489,Software Engineering 489
+489,490,Intro to Python 490
+490,491,Data Structures 491
+491,492,Advanced Databases
+492,493,Intro to Python 493
+493,494,Advanced Databases
+494,495,Software Engineering 495
+495,496,AI Fundamentals 496
+496,497,AI Fundamentals 497
+497,498,Data Structures 498
+498,499,Advanced Databases
+499,500,Intro to Python 500
+500,501,AI Fundamentals 501
+501,502,Software Engineering 502
+502,503,Intro to Python 503
+503,504,Data Structures 504
+504,505,Advanced Databases
+505,506,Intro to Python 506
+506,507,Intro to Python 507
+507,508,AI Fundamentals 508
+508,509,Intro to Python 509
+509,510,Software Engineering 510
+510,511,Software Engineering 511
+511,512,Software Engineering 512
+512,513,Intro to Python 513
+513,514,Data Structures 514
+514,515,AI Fundamentals 515
+515,516,Advanced Databases
+516,517,Software Engineering 517
+517,518,Intro to Python 518
+518,519,Advanced Databases
+519,520,Advanced Databases
+520,521,AI Fundamentals 521
+521,522,Intro to Python 522
+522,523,Intro to Python 523
+523,524,Intro to Python 524
+524,525,Intro to Python 525
+525,526,Advanced Databases
+526,527,Software Engineering 527
+527,528,AI Fundamentals 528
+528,529,Data Structures 529
+529,530,Intro to Python 530
+530,531,Intro to Python 531
+531,532,Data Structures 532
+532,533,Software Engineering 533
+533,534,AI Fundamentals 534
+534,535,Software Engineering 535
+535,536,Software Engineering 536
+536,537,Data Structures 537
+537,538,Advanced Databases
+538,539,Intro to Python 539
+539,540,AI Fundamentals 540
+540,541,Advanced Databases
+541,542,AI Fundamentals 542
+542,543,Software Engineering 543
+543,544,AI Fundamentals 544
+544,545,Advanced Databases
+545,546,Software Engineering 546
+546,547,AI Fundamentals 547
+547,548,Data Structures 548
+548,549,Advanced Databases
+549,550,Advanced Databases
+550,551,Data Structures 551
+551,552,Advanced Databases
+552,553,Intro to Python 553
+553,554,Data Structures 554
+554,555,Software Engineering 555
+555,556,Data Structures 556
+556,557,Advanced Databases
+557,558,AI Fundamentals 558
+558,559,Intro to Python 559
+559,560,Data Structures 560
+560,561,Intro to Python 561
+561,562,Data Structures 562
+562,563,AI Fundamentals 563
+563,564,Software Engineering 564
+564,565,Advanced Databases
+565,566,Advanced Databases
+566,567,Data Structures 567
+567,568,Advanced Databases
+568,569,Advanced Databases
+569,570,AI Fundamentals 570
+570,571,Advanced Databases
+571,572,Software Engineering 572
+572,573,Intro to Python 573
+573,574,Data Structures 574
+574,575,AI Fundamentals 575
+575,576,Intro to Python 576
+576,577,Software Engineering 577
+577,578,Intro to Python 578
+578,579,Data Structures 579
+579,580,Data Structures 580
+580,581,Data Structures 581
+581,582,Data Structures 582
+582,583,Software Engineering 583
+583,584,AI Fundamentals 584
+584,585,AI Fundamentals 585
+585,586,Intro to Python 586
+586,587,Data Structures 587
+587,588,Advanced Databases
+588,589,AI Fundamentals 589
+589,590,Software Engineering 590
+590,591,Advanced Databases
+591,592,Data Structures 592
+592,593,AI Fundamentals 593
+593,594,Advanced Databases
+594,595,Advanced Databases
+595,596,Data Structures 596
+596,597,Advanced Databases
+597,598,Software Engineering 598
+598,599,Advanced Databases
+599,600,Intro to Python 600
+600,601,Data Structures 601
+601,602,Data Structures 602
+602,603,AI Fundamentals 603
+603,604,Data Structures 604
+604,605,Data Structures 605
+605,606,Intro to Python 606
+606,607,Data Structures 607
+607,608,Advanced Databases
+608,609,Intro to Python 609
+609,610,AI Fundamentals 610
+610,611,AI Fundamentals 611
+611,612,Data Structures 612
+612,613,Software Engineering 613
+613,614,Intro to Python 614
+614,615,AI Fundamentals 615
+615,616,Data Structures 616
+616,617,Data Structures 617
+617,618,Data Structures 618
+618,619,Data Structures 619
+619,620,Advanced Databases
+620,621,Software Engineering 621
+621,622,Advanced Databases
+622,623,Data Structures 623
+623,624,AI Fundamentals 624
+624,625,AI Fundamentals 625
+625,626,Software Engineering 626
+626,627,Intro to Python 627
+627,628,Software Engineering 628
+628,629,Software Engineering 629
+629,630,Intro to Python 630
+630,631,Advanced Databases
+631,632,Advanced Databases
+632,633,Advanced Databases
+633,634,Data Structures 634
+634,635,Data Structures 635
+635,636,Intro to Python 636
+636,637,Data Structures 637
+637,638,Advanced Databases
+638,639,Advanced Databases
+639,640,Advanced Databases
+640,641,AI Fundamentals 641
+641,642,AI Fundamentals 642
+642,643,Software Engineering 643
+643,644,Advanced Databases
+644,645,Advanced Databases
+645,646,AI Fundamentals 646
+646,647,AI Fundamentals 647
+647,648,Advanced Databases
+648,649,AI Fundamentals 649
+649,650,Software Engineering 650
+650,651,AI Fundamentals 651
+651,652,Data Structures 652
+652,653,Advanced Databases
+653,654,Intro to Python 654
+654,655,Advanced Databases
+655,656,Data Structures 656
+656,657,AI Fundamentals 657
+657,658,Data Structures 658
+658,659,Software Engineering 659
+659,660,Software Engineering 660
+660,661,Advanced Databases
+661,662,Intro to Python 662
+662,663,Software Engineering 663
+663,664,AI Fundamentals 664
+664,665,Data Structures 665
+665,666,Software Engineering 666
+666,667,Software Engineering 667
+667,668,Data Structures 668
+668,669,Intro to Python 669
+669,670,Software Engineering 670
+670,671,Software Engineering 671
+671,672,Software Engineering 672
+672,673,Software Engineering 673
+673,674,Data Structures 674
+674,675,AI Fundamentals 675
+675,676,Advanced Databases
+676,677,Intro to Python 677
+677,678,AI Fundamentals 678
+678,679,Intro to Python 679
+679,680,Data Structures 680
+680,681,Intro to Python 681
+681,682,Intro to Python 682
+682,683,Intro to Python 683
+683,684,Software Engineering 684
+684,685,Advanced Databases
+685,686,Advanced Databases
+686,687,Data Structures 687
+687,688,Advanced Databases
+688,689,Advanced Databases
+689,690,Advanced Databases
+690,691,Advanced Databases
+691,692,Intro to Python 692
+692,693,Advanced Databases
+693,694,Intro to Python 694
+694,695,Software Engineering 695
+695,696,AI Fundamentals 696
+696,697,Intro to Python 697
+697,698,Intro to Python 698
+698,699,Software Engineering 699
+699,700,Software Engineering 700
+700,701,Intro to Python 701
+701,702,Software Engineering 702
+702,703,Advanced Databases
+703,704,Data Structures 704
+704,705,Data Structures 705
+705,706,Advanced Databases
+706,707,Intro to Python 707
+707,708,AI Fundamentals 708
+708,709,Data Structures 709
+709,710,Data Structures 710
+710,711,Software Engineering 711
+711,712,AI Fundamentals 712
+712,713,Data Structures 713
+713,714,Software Engineering 714
+714,715,AI Fundamentals 715
+715,716,AI Fundamentals 716
+716,717,AI Fundamentals 717
+717,718,Intro to Python 718
+718,719,AI Fundamentals 719
+719,720,Advanced Databases
+720,721,AI Fundamentals 721
+721,722,Software Engineering 722
+722,723,Software Engineering 723
+723,724,AI Fundamentals 724
+724,725,Data Structures 725
+725,726,Software Engineering 726
+726,727,Intro to Python 727
+727,728,Intro to Python 728
+728,729,Software Engineering 729
+729,730,Intro to Python 730
+730,731,Data Structures 731
+731,732,Software Engineering 732
+732,733,Advanced Databases
+733,734,AI Fundamentals 734
+734,735,Data Structures 735
+735,736,Software Engineering 736
+736,737,Data Structures 737
+737,738,Software Engineering 738
+738,739,Data Structures 739
+739,740,Data Structures 740
+740,741,AI Fundamentals 741
+741,742,Advanced Databases
+742,743,Data Structures 743
+743,744,Data Structures 744
+744,745,Software Engineering 745
+745,746,Software Engineering 746
+746,747,Intro to Python 747
+747,748,Software Engineering 748
+748,749,Intro to Python 749
+749,750,Intro to Python 750
+750,751,Software Engineering 751
+751,752,Advanced Databases
+752,753,Data Structures 753
+753,754,Advanced Databases
+754,755,Software Engineering 755
+755,756,Software Engineering 756
+756,757,Advanced Databases
+757,758,AI Fundamentals 758
+758,759,AI Fundamentals 759
+759,760,Data Structures 760
+760,761,Advanced Databases
+761,762,AI Fundamentals 762
+762,763,Software Engineering 763
+763,764,AI Fundamentals 764
+764,765,Intro to Python 765
+765,766,AI Fundamentals 766
+766,767,Data Structures 767
+767,768,AI Fundamentals 768
+768,769,AI Fundamentals 769
+769,770,AI Fundamentals 770
+770,771,Data Structures 771
+771,772,Intro to Python 772
+772,773,Intro to Python 773
+773,774,Advanced Databases
+774,775,Data Structures 775
+775,776,Advanced Databases
+776,777,AI Fundamentals 777
+777,778,Software Engineering 778
+778,779,Software Engineering 779
+779,780,Software Engineering 780
+780,781,Intro to Python 781
+781,782,Data Structures 782
+782,783,Intro to Python 783
+783,784,Data Structures 784
+784,785,Advanced Databases
+785,786,Software Engineering 786
+786,787,AI Fundamentals 787
+787,788,Data Structures 788
+788,789,Data Structures 789
+789,790,Advanced Databases
+790,791,Intro to Python 791
+791,792,Advanced Databases
+792,793,Intro to Python 793
+793,794,Advanced Databases
+794,795,Advanced Databases
+795,796,Intro to Python 796
+796,797,Software Engineering 797
+797,798,Intro to Python 798
+798,799,Advanced Databases
+799,800,Intro to Python 800
+800,801,AI Fundamentals 801
+801,802,Advanced Databases
+802,803,AI Fundamentals 803
+803,804,AI Fundamentals 804
+804,805,Software Engineering 805
+805,806,Intro to Python 806
+806,807,AI Fundamentals 807
+807,808,Intro to Python 808
+808,809,Software Engineering 809
+809,810,Data Structures 810
+810,811,Software Engineering 811
+811,812,Data Structures 812
+812,813,AI Fundamentals 813
+813,814,Data Structures 814
+814,815,Software Engineering 815
+815,816,Intro to Python 816
+816,817,Software Engineering 817
+817,818,AI Fundamentals 818
+818,819,AI Fundamentals 819
+819,820,AI Fundamentals 820
+820,821,Advanced Databases
+821,822,AI Fundamentals 822
+822,823,Data Structures 823
+823,824,Data Structures 824
+824,825,Advanced Databases
+825,826,Intro to Python 826
+826,827,AI Fundamentals 827
+827,828,Intro to Python 828
+828,829,AI Fundamentals 829
+829,830,Intro to Python 830
+830,831,Data Structures 831
+831,832,Advanced Databases
+832,833,Data Structures 833
+833,834,AI Fundamentals 834
+834,835,Data Structures 835
+835,836,Data Structures 836
+836,837,AI Fundamentals 837
+837,838,Advanced Databases
+838,839,Advanced Databases
+839,840,Software Engineering 840
+840,841,Intro to Python 841
+841,842,Data Structures 842
+842,843,Intro to Python 843
+843,844,Software Engineering 844
+844,845,AI Fundamentals 845
+845,846,Intro to Python 846
+846,847,Software Engineering 847
+847,848,Advanced Databases
+848,849,Software Engineering 849
+849,850,Intro to Python 850
+850,851,AI Fundamentals 851
+851,852,Intro to Python 852
+852,853,AI Fundamentals 853
+853,854,Software Engineering 854
+854,855,AI Fundamentals 855
+855,856,AI Fundamentals 856
+856,857,AI Fundamentals 857
+857,858,Advanced Databases
+858,859,AI Fundamentals 859
+859,860,AI Fundamentals 860
+860,861,AI Fundamentals 861
+861,862,Data Structures 862
+862,863,Advanced Databases
+863,864,Advanced Databases
+864,865,Software Engineering 865
+865,866,Intro to Python 866
+866,867,Advanced Databases
+867,868,AI Fundamentals 868
+868,869,AI Fundamentals 869
+869,870,Intro to Python 870
+870,871,Intro to Python 871
+871,872,Software Engineering 872
+872,873,Data Structures 873
+873,874,AI Fundamentals 874
+874,875,Data Structures 875
+875,876,Data Structures 876
+876,877,Data Structures 877
+877,878,Advanced Databases
+878,879,Data Structures 879
+879,880,AI Fundamentals 880
+880,881,Intro to Python 881
+881,882,AI Fundamentals 882
+882,883,Intro to Python 883
+883,884,AI Fundamentals 884
+884,885,Advanced Databases
+885,886,AI Fundamentals 886
+886,887,AI Fundamentals 887
+887,888,Data Structures 888
+888,889,Data Structures 889
+889,890,Intro to Python 890
+890,891,Advanced Databases
+891,892,Software Engineering 892
+892,893,Data Structures 893
+893,894,Software Engineering 894
+894,895,AI Fundamentals 895
+895,896,AI Fundamentals 896
+896,897,Data Structures 897
+897,898,Software Engineering 898
+898,899,AI Fundamentals 899
+899,900,Advanced Databases
+900,901,Data Structures 901
+901,902,Advanced Databases
+902,903,Advanced Databases
+903,904,AI Fundamentals 904
+904,905,Advanced Databases
+905,906,Intro to Python 906
+906,907,AI Fundamentals 907
+907,908,Data Structures 908
+908,909,Intro to Python 909
+909,910,Data Structures 910
+910,911,Advanced Databases
+911,912,Intro to Python 912
+912,913,AI Fundamentals 913
+913,914,Software Engineering 914
+914,915,AI Fundamentals 915
+915,916,Data Structures 916
+916,917,Advanced Databases
+917,918,Data Structures 918
+918,919,Data Structures 919
+919,920,Data Structures 920
+920,921,Intro to Python 921
+921,922,Software Engineering 922
+922,923,Data Structures 923
+923,924,AI Fundamentals 924
+924,925,Data Structures 925
+925,926,AI Fundamentals 926
+926,927,AI Fundamentals 927
+927,928,Intro to Python 928
+928,929,Intro to Python 929
+929,930,AI Fundamentals 930
+930,931,Data Structures 931
+931,932,Advanced Databases
+932,933,Intro to Python 933
+933,934,Advanced Databases
+934,935,Advanced Databases
+935,936,Data Structures 936
+936,937,Software Engineering 937
+937,938,Advanced Databases
+938,939,Data Structures 939
+939,940,AI Fundamentals 940
+940,941,Data Structures 941
+941,942,Software Engineering 942
+942,943,Software Engineering 943
+943,944,Intro to Python 944
+944,945,Data Structures 945
+945,946,Software Engineering 946
+946,947,Data Structures 947
+947,948,Advanced Databases
+948,949,Data Structures 949
+949,950,Data Structures 950
+950,951,Advanced Databases
+951,952,AI Fundamentals 952
+952,953,Data Structures 953
+953,954,AI Fundamentals 954
+954,955,Advanced Databases
+955,956,Advanced Databases
+956,957,Intro to Python 957
+957,958,Data Structures 958
+958,959,Intro to Python 959
+959,960,Software Engineering 960
+960,961,Intro to Python 961
+961,962,Software Engineering 962
+962,963,Advanced Databases
+963,964,Intro to Python 964
+964,965,Data Structures 965
+965,966,Advanced Databases
+966,967,Intro to Python 967
+967,968,AI Fundamentals 968
+968,969,Intro to Python 969
+969,970,Data Structures 970
+970,971,AI Fundamentals 971
+971,972,Advanced Databases
+972,973,Advanced Databases
+973,974,Advanced Databases
+974,975,Data Structures 975
+975,976,Advanced Databases
+976,977,Software Engineering 977
+977,978,Advanced Databases
+978,979,Software Engineering 979
+979,980,Advanced Databases
+980,981,Advanced Databases
+981,982,AI Fundamentals 982
+982,983,Advanced Databases
+983,984,Intro to Python 984
+984,985,AI Fundamentals 985
+985,986,AI Fundamentals 986
+986,987,AI Fundamentals 987
+987,988,Data Structures 988
+988,989,Data Structures 989
+989,990,Advanced Databases
+990,991,Software Engineering 991
+991,992,Advanced Databases
+992,993,Software Engineering 993
+993,994,Software Engineering 994
+994,995,Intro to Python 995
+995,996,AI Fundamentals 996
+996,997,Intro to Python 997
+997,998,Advanced Databases
+998,999,Advanced Databases
+999,1000,AI Fundamentals 1000
